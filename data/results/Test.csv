@@ -1,0 +1,24 @@
+,action,wolfIdentity,sheepIdentity,precision,responseSubtlety,responsePosterior,RT(ms),realSubtlety,numberObjects,trajectoryFilename
+0,False,3,5,0.31,150,0.7554305376914375,8000.000000000001,5,9,/Users/xuhaokui/Documents/Research Document/modelingpercivedintention/data/trajectory/expt1/49.pkl
+1,False,2,1,0.31,150,0.7702784610856417,8000.000000000001,150,3,/Users/xuhaokui/Documents/Research Document/modelingpercivedintention/data/trajectory/expt1/61.pkl
+2,True,1,5,0.31,150,0.9928559864908622,5816.666666666667,150,6,/Users/xuhaokui/Documents/Research Document/modelingpercivedintention/data/trajectory/expt1/75.pkl
+3,False,5,3,0.31,150,0.6801156481938188,8000.000000000001,180,6,/Users/xuhaokui/Documents/Research Document/modelingpercivedintention/data/trajectory/expt1/160.pkl
+4,True,2,0,0.31,150,0.9918071099786655,4816.666666666667,180,3,/Users/xuhaokui/Documents/Research Document/modelingpercivedintention/data/trajectory/expt1/174.pkl
+5,True,0,1,11.0,30,0.9901957951596037,5016.666666666667,30,4,/Users/xuhaokui/Documents/Research Document/modelingpercivedintention/data/trajectory/expt1/148.pkl
+6,False,4,5,0.31,150,0.9040048670529968,8000.000000000001,180,6,/Users/xuhaokui/Documents/Research Document/modelingpercivedintention/data/trajectory/expt1/216.pkl
+7,False,0,1,0.31,150,0.6994666585041799,8000.000000000001,180,3,/Users/xuhaokui/Documents/Research Document/modelingpercivedintention/data/trajectory/expt1/202.pkl
+8,False,2,1,0.31,150,0.988782826847112,8000.000000000001,5,4,/Users/xuhaokui/Documents/Research Document/modelingpercivedintention/data/trajectory/expt1/203.pkl
+9,False,1,8,0.31,150,0.9774589100100772,8000.000000000001,5,9,/Users/xuhaokui/Documents/Research Document/modelingpercivedintention/data/trajectory/expt1/217.pkl
+10,True,2,3,0.31,150,0.9935562697194754,6816.666666666667,60,4,/Users/xuhaokui/Documents/Research Document/modelingpercivedintention/data/trajectory/expt1/149.pkl
+11,True,0,1,50.0,5,0.9911007065378143,4016.666666666667,5,4,/Users/xuhaokui/Documents/Research Document/modelingpercivedintention/data/trajectory/expt1/175.pkl
+12,True,7,3,0.31,150,0.9907721357645574,5416.666666666667,5,9,/Users/xuhaokui/Documents/Research Document/modelingpercivedintention/data/trajectory/expt1/161.pkl
+13,True,2,3,0.31,150,0.9933581540852874,6816.666666666667,120,6,/Users/xuhaokui/Documents/Research Document/modelingpercivedintention/data/trajectory/expt1/74.pkl
+14,True,2,1,0.31,150,0.9960515828850119,6816.666666666667,120,3,/Users/xuhaokui/Documents/Research Document/modelingpercivedintention/data/trajectory/expt1/60.pkl
+15,True,5,4,0.31,150,0.992310856261383,3016.666666666667,180,6,/Users/xuhaokui/Documents/Research Document/modelingpercivedintention/data/trajectory/expt1/48.pkl
+16,True,3,0,0.31,150,0.9947968429022684,7816.666666666667,180,6,/Users/xuhaokui/Documents/Research Document/modelingpercivedintention/data/trajectory/expt1/188.pkl
+0,True,0,1,50.0,5,0.9902854108870165,5616.666666666667,5,9,/Users/xuhaokui/Documents/Research Document/modelingpercivedintention/data/trajectory/expt1/49.pkl
+1,False,0,1,3.3,60,0.19069578462749984,8000.000000000001,150,3,/Users/xuhaokui/Documents/Research Document/modelingpercivedintention/data/trajectory/expt1/61.pkl
+2,False,3,5,3.3,60,0.07686810640766163,8000.000000000001,150,6,/Users/xuhaokui/Documents/Research Document/modelingpercivedintention/data/trajectory/expt1/75.pkl
+3,False,5,4,1.83,90,0.09313257448049593,8000.000000000001,180,6,/Users/xuhaokui/Documents/Research Document/modelingpercivedintention/data/trajectory/expt1/160.pkl
+4,False,2,1,11.0,30,0.1890671038236896,8000.000000000001,180,3,/Users/xuhaokui/Documents/Research Document/modelingpercivedintention/data/trajectory/expt1/174.pkl
+0,False,0,1,50.0,5,0.9886426528854577,8000.000000000001,5,9,/Users/xuhaokui/Documents/Research Document/modelingpercivedintention/data/trajectory/expt1/49.pkl
